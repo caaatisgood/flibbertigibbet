@@ -1,6 +1,11 @@
 GitHub
 
-<a href="https://quine.sh/profile/caaatisgood"><img src="https://stats.quine.sh/caaatisgood/github" alt="Hao-Ping's GitHub stats" width="840px"></a>
+<a href="https://quine.sh/profile/caaatisgood">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/caaatisgood/github?theme=dark">
+    <img alt="description" src="https://stats.quine.sh/caaatisgood/github">
+  </picture>
+</a>
 
 Verified languages
 
